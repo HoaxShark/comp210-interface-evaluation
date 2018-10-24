@@ -75,6 +75,11 @@ h2{
   font-size: 1.4em;
   padding:4px;
 }
+
+h3{
+  font-size: 1.0em;
+  padding:4px;
+}
 h4{
   font-size: 3.4em;
   padding:8px;
@@ -222,4 +227,12 @@ footer{
     .modal-content {
         width: 100%;
     }
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+th, td {
+    padding: 5px;
 }
